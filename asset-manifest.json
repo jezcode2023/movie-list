@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jezcode2023/movie-list.git/static/css/main.e4bac28b.css",
+    "main.js": "/jezcode2023/movie-list.git/static/js/main.19c8924d.js",
+    "static/media/logo.png": "/jezcode2023/movie-list.git/static/media/logo.610fe9f04c5ba1cd98c4.png",
+    "index.html": "/jezcode2023/movie-list.git/index.html",
+    "main.e4bac28b.css.map": "/jezcode2023/movie-list.git/static/css/main.e4bac28b.css.map",
+    "main.19c8924d.js.map": "/jezcode2023/movie-list.git/static/js/main.19c8924d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bac28b.css",
+    "static/js/main.19c8924d.js"
+  ]
+}
