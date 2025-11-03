@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import FeaturedMovie from "./components/FeaturedMovie";
 
 
-const API_BASE = "http://www.omdbapi.com/";
+const API_BASE = "https://www.omdbapi.com/";
 const API_KEY = "705f847b";
 
 
